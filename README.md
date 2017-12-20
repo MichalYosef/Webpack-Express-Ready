@@ -12,9 +12,10 @@ The node-modules is already installed with all librarys needed to just start wor
 
 ## instructions
 
+
 In your dev env open two terminals, navigate to myExpressApp folder : ```` cd .\myExpressApp ````  in both.
 
-In one terminal type *webpack* hit Enter
+In the first terminal type ````npm install```` and then  type *webpack* hit Enter
 
 In the other one type *npm start* hit Enter
 
